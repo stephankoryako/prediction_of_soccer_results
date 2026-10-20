@@ -1,0 +1,291 @@
+team,id,start_rating
+M'gladbach,194,2450
+Augsburg,368,2450
+Bielefeld,341,2450
+Stuttgart,364,2450
+Union Berlin,264,2450
+Wolfsburg,236,2450
+Dortmund,64,2450
+Mainz,293,2450
+FC Koln,45,2450
+RB Leipzig,83,2450
+Bochum,185,2450
+Ein Frankfurt,166,2450
+Freiburg,396,2450
+Greuther Furth,61,2450
+Hertha,204,2450
+Leverkusen,272,2450
+Hoffenheim,341,2450
+Bayern Munich,161,2450
+Werder Bremen,342,2450
+Schalke 04,87,2450
+Fortuna Dusseldorf,184,2450
+Paderborn,307,2450
+Hannover,365,2450
+Nurnberg,343,2450
+Hamburg,132,2450
+Darmstadt,254,2450
+Ingolstadt,148,2450
+Braunschweig,136,2450
+St Pauli,167,2150
+Heidenheim,284,2150
+Karlsruhe,354,2150
+Kaiserslautern,76,2150
+Aalen,149,2150
+Frankfurt FSV,273,2150
+Erzgebirge Aue,89,2150
+Munich 1860,144,2150
+Sandhausen,174,2150
+Duisburg,222,2150
+Dresden,51,2150
+Wurzburger Kickers,75,2150
+Holstein Kiel,250,2150
+Regensburg,230,2150
+Magdeburg,113,2150
+Osnabruck,334,2150
+Wehen,54,2150
+Hansa Rostock,326,2150
+Cottbus,300,2150
+Brentford,57,2600
+Man United,156,2600
+Burnley,114,2600
+Chelsea,397,2600
+Everton,217,2600
+Leicester,68,2600
+Watford,199,2600
+Norwich,374,2600
+Newcastle,234,2600
+Tottenham,103,2600
+Liverpool,333,2600
+Aston Villa,385,2600
+Crystal Palace,116,2600
+Leeds,117,2600
+Man City,289,2600
+Brighton,89,2600
+Southampton,329,2600
+Wolves,140,2600
+Arsenal,55,2600
+West Ham,185,2600
+Fulham,314,2600
+West Brom,192,2600
+Sheffield United,134,2600
+Bournemouth,173,2600
+Huddersfield,121,2600
+Cardiff,329,2600
+Stoke,253,2600
+Swansea,192,2600
+Hull,105,2600
+Middlesbrough,351,2600
+Sunderland,328,2600
+QPR,108,2600
+Nott'm Forest,186,2600
+Blackburn,148,2300
+Derby,155,2300
+Ipswich,386,2300
+Millwall,187,2300
+Wigan,345,2300
+Birmingham,255,2300
+Blackpool,108,2300
+Bolton,72,2300
+Charlton,384,2300
+Reading,180,2300
+Rotherham,284,2300
+Sheffield Weds,391,2300
+Preston,81,2300
+Bristol City,295,2300
+Milton Keynes Dons,362,2300
+Barnsley,115,2300
+Burton,165,2300
+Luton,347,2300
+Wycombe,187,2300
+Coventry,167,2300
+Peterboro,40,2300
+Doncaster,138,2300
+Yeovil,78,2300
+Monaco,58,2400
+Lyon,177,2400
+Troyes,325,2400
+Rennes,348,2400
+Bordeaux,163,2400
+Nice,65,2400
+St Etienne,74,2400
+Strasbourg,365,2400
+Metz,184,2400
+Montpellier,151,2400
+Lorient,113,2400
+Lille,389,2400
+Paris SG,233,2400
+Angers,391,2400
+Brest,184,2400
+Clermont,239,2400
+Nantes,104,2400
+Reims,141,2400
+Lens,137,2400
+Marseille,338,2400
+Dijon,293,2400
+Nimes,242,2400
+Amiens,164,2400
+Toulouse,109,2400
+Caen,146,2400
+Guingamp,389,2400
+Bastia,106,2400
+Nancy,329,2400
+Ajaccio GFCO,124,2400
+Evian Thonon Gaillard,160,2400
+Valenciennes,179,2400
+Ajaccio,383,2400
+Sochaux,102,2400
+Auxerre,398,2400
+Arles,223,2100
+Chateauroux,89,2100
+Laval,301,2100
+Tours,382,2100
+Creteil,371,2100
+Le Havre,175,2100
+Niort,207,2100
+Orleans,155,2100
+Bourg Peronnas,279,2100
+Paris FC,197,2100
+Red Star,294,2100
+Quevilly Rouen,178,2100
+Grenoble,293,2100
+Beziers,106,2100
+Chambly,222,2100
+Rodez,96,2100
+Le Mans,106,2100
+Dunkerque,129,2100
+Pau FC,78,2100
+Annecy,312,2100
+Istres,98,2100
+CA Bastia,127,2100
+Inter,131,2500
+Verona,304,2500
+Empoli,278,2500
+Torino,393,2500
+Bologna,195,2500
+Udinese,215,2500
+Napoli,336,2500
+Roma,269,2500
+Cagliari,168,2500
+Sampdoria,143,2500
+Atalanta,225,2500
+Lazio,129,2500
+Fiorentina,143,2500
+Juventus,368,2500
+Genoa,360,2500
+Sassuolo,323,2500
+Milan,301,2500
+Salernitana,68,2500
+Spezia,157,2500
+Venezia,291,2500
+Parma,146,2500
+Crotone,103,2500
+Benevento,65,2500
+Spal,174,2500
+Lecce,362,2500
+Brescia,154,2500
+Chievo,377,2500
+Frosinone,48,2500
+Palermo,134,2500
+Pescara,391,2500
+Carpi,171,2500
+Cesena,82,2500
+Livorno,107,2500
+Catania,57,2500
+Monza,315,2500
+Cremonese,178,2500
+Perugia,376,2200
+Avellino,42,2200
+Varese,150,2200
+Virtus Entella,280,2200
+Modena,374,2200
+Latina,362,2200
+Bari,344,2200
+Cittadella,206,2200
+Pro Vercelli,143,2200
+Ternana,119,2200
+Trapani,62,2200
+Virtus Lanciano,77,2200
+Vicenza,321,2200
+Novara,328,2200
+Como,186,2200
+Ascoli,380,2200
+Pisa,319,2200
+Foggia,228,2200
+Cosenza,187,2200
+Padova,98,2200
+Pordenone,108,2200
+Juve Stabia,135,2200
+Reggiana,391,2200
+Reggina,40,2200
+Alessandria,160,2200
+Sudtirol,103,2200
+Siena,44,2200
+Valencia,353,2550
+Cadiz,117,2550
+Mallorca,147,2550
+Alaves,163,2550
+Osasuna,363,2550
+Celta,391,2550
+Barcelona,375,2550
+Sevilla,149,2550
+Villarreal,45,2550
+Elche,388,2550
+Betis,102,2550
+Espanol,85,2550
+Granada,215,2550
+Ath Bilbao,100,2550
+Sociedad,252,2550
+Ath Madrid,40,2550
+Levante,289,2550
+Getafe,319,2550
+Vallecano,246,2550
+Real Madrid,366,2550
+Eibar,125,2550
+Valladolid,44,2550
+Huesca,198,2550
+Leganes,276,2550
+Girona,254,2550
+La Coruna,395,2550
+Malaga,163,2550
+Las Palmas,158,2550
+Sp Gijon,82,2550
+Almeria,71,2550
+Cordoba,217,2550
+Numancia,184,2250
+Recreativo,180,2250
+Albacete,283,2250
+Mirandes,387,2250
+Ponferradina,45,2250
+Sabadell,79,2250
+Alcorcon,143,2250
+Barcelona B,62,2250
+Lugo,172,2250
+Santander,351,2250
+Tenerife,206,2250
+Zaragoza,112,2250
+Llagostera,219,2250
+Gimnastic,205,2250
+Oviedo,291,2250
+Ath Bilbao B,389,2250
+Sevilla B,139,2250
+Reus Deportiu,377,2250
+UCAM Murcia,82,2250
+Lorca,237,2250
+Leonesa,315,2250
+Extremadura UD,285,2250
+Rayo Majadahonda,108,2250
+Fuenlabrada,378,2250
+Castellon,69,2250
+Cartagena,331,2250
+Logrones,218,2250
+Sociedad B,314,2250
+Ibiza,327,2250
+Amorebieta,77,2250
+Burgos,110,2250
+Villarreal B,186,2250
+Andorra,193,2250
+Hercules,133,2250
+Jaen,328,2250
+Murcia,369,2250
+Real Madrid B,244,2250
